@@ -1,0 +1,99 @@
+﻿[
+  {
+    "OrderId": "SAL1003221", 
+    "Issues": [
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "10009",
+        "self": "https://albelli-test-cc.atlassian.net/rest/api/2/issue/10009",
+        "key": "CC-4",
+        "fields": {
+          "summary": "Notify about cancelling the order",
+          "priority": {
+            "self": "https://albelli-test-cc.atlassian.net/rest/api/2/priority/3",
+            "iconUrl": "https://albelli-test-cc.atlassian.net/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+          },
+          "status": {
+            "self": "https://albelli-test-cc.atlassian.net/rest/api/2/status/10000",
+            "description": "",
+            "iconUrl": "https://albelli-test-cc.atlassian.net/images/icons/status_generic.gif",
+            "name": "To Do",
+            "id": "10000",
+            "statusCategory": {
+              "self": "https://albelli-test-cc.atlassian.net/rest/api/2/statuscategory/2",
+              "id": 2,
+              "key": "new",
+              "colorName": "blue-gray",
+              "name": "To Do"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "OrderId": "SAL1005239",
+    "Issues": [
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "10008",
+        "self": "https://albelli-test-cc.atlassian.net/rest/api/2/issue/10008",
+        "key": "CC-3",
+        "fields": {
+          "summary": "Send order to another address",
+          "priority": {
+            "self": "https://albelli-test-cc.atlassian.net/rest/api/2/priority/3",
+            "iconUrl": "https://albelli-test-cc.atlassian.net/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+          },
+          "status": {
+            "self": "https://albelli-test-cc.atlassian.net/rest/api/2/status/10000",
+            "description": "",
+            "iconUrl": "https://albelli-test-cc.atlassian.net/images/icons/status_generic.gif",
+            "name": "To Do",
+            "id": "10000",
+            "statusCategory": {
+              "self": "https://albelli-test-cc.atlassian.net/rest/api/2/statuscategory/2",
+              "id": 2,
+              "key": "new",
+              "colorName": "blue-gray",
+              "name": "To Do"
+            }
+          }
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "10007",
+        "self": "https://albelli-test-cc.atlassian.net/rest/api/2/issue/10007",
+        "key": "CC-2",
+        "fields": {
+          "summary": "Customer refund - bank account",
+          "priority": {
+            "self": "https://albelli-test-cc.atlassian.net/rest/api/2/priority/3",
+            "iconUrl": "https://albelli-test-cc.atlassian.net/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+          },
+          "status": {
+            "self": "https://albelli-test-cc.atlassian.net/rest/api/2/status/10000",
+            "description": "",
+            "iconUrl": "https://albelli-test-cc.atlassian.net/images/icons/status_generic.gif",
+            "name": "To Do",
+            "id": "10000",
+            "statusCategory": {
+              "self": "https://albelli-test-cc.atlassian.net/rest/api/2/statuscategory/2",
+              "id": 2,
+              "key": "new",
+              "colorName": "blue-gray",
+              "name": "To Do"
+            }
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Albelli.OrderManagement.Contracts\Albelli.Core.Contracts.csproj" />
+    <ProjectReference Include="..\Albelli.Orders.Contracts\Albelli.Orders.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

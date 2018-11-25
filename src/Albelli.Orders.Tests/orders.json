@@ -1,0 +1,26 @@
+﻿[
+  {
+    "OrderId": "SAL1005235",
+    "CustomerName": "Ramiro Z",
+    "Price": "90.99",
+    "PostCode": "1143WS",
+    "HouseNumber": "2",
+    "RowVersion": "AAAAAAAAZZI="
+  },
+  {
+    "OrderId": "OPS1005235",
+    "CustomerName": "Sergey M",
+    "Price": "40.55",
+    "PostCode": "2020WS",
+    "HouseNumber": "2",
+    "RowVersion": "AAAAAAAAZZI="
+  },
+  {
+    "OrderId": "TEC1005235",
+    "CustomerName": "Jeroen S",
+    "Price": "10.20",
+    "PostCode": "1140AR",
+    "HouseNumber": "2",
+    "RowVersion": "AAAAAAAAZZI="
+  }
+]
